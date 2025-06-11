@@ -106,4 +106,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkothiya2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-![Snake animation](https://github.com/thepiyushmalhotra/sanketkothiya2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sanketkothiya2/blob/output/github-contribution-grid-snake.svg)
