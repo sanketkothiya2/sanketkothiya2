@@ -20,7 +20,7 @@
 - 📝 I regularly write articles on [https://medium.com/@sanketkothiya53](https://medium.com/@sanketkothiya53)
 - 💬 Ask me about **Building scalable web applications and data analysis**
 - 📫 How to reach me **kothiyas@uwindsor.ca**
-- 📄 Know about my experiences [https://drive.google.com/file/d/14Owen3I6aFh8TqEP3YMT1TOrK26p1dq2/view](https://drive.google.com/file/d/14Owen3I6aFh8TqEP3YMT1TOrK26p1dq2/view)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1J_KkxAOHeXJd9x4pnewu0tobot4ay20r/view?usp=sharing)
 
 <h2 align="center">🌐 Connect With Me</h2>
 <div align="center">
