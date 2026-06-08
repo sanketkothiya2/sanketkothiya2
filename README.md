@@ -1,109 +1,149 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sanket%20Kothiya&reversal=false&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sanket%20Kothiya&fontAlignY=38&desc=Data%20Analyst%20%7C%20Turning%20Data%20into%20Decisions&descAlignY=58&reversal=false&animation=twinkling)
 
-<h3 align="center">"Crafting Code & Crunching Data: AI-Driven Solutions 🌟📈🤖"</h3>
+<h3 align="center">"From raw data to real decisions — SQL, Python & Power BI 📊🐍📈"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketkothiya2&label=Profile%20views&color=0e75b6&style=flat" alt="sanketkothiya2" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sanketkothiya2&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanketkothiya2" alt="sanketkothiya2" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sanketkothiya2&theme=radical&no-frame=true&column=7" alt="trophies" />
+  </a>
+</p>
 
-<!-- About Me Section -->
+---
+
+## 👋 About Me
 
 <div align="center">
-  <img align="right" height="220" width="350" alt="GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img align="right" height="200" width="320" alt="Data analytics GIF" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
-- 🔭 I'm currently working on **Habit tracker**
-- 🌱 I'm currently learning **Model Context Protocol for Ai Agent**
-- 👯 I'm looking to collaborate on **Machine learning applications**
-- 🤝 I'm looking for help with **System design and architecture**
-- 👨‍💻 All of my projects are available at [http://sanketkothiya.netlify.app/](http://sanketkothiya.netlify.app/)
-- 📝 I regularly write articles on [https://medium.com/@sanketkothiya53](https://medium.com/@sanketkothiya53)
-- 💬 Ask me about **Building scalable web applications and data analysis**
-- 📫 How to reach me **kothiyas@uwindsor.ca**
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1J_KkxAOHeXJd9x4pnewu0tobot4ay20r/view?usp=sharing)
+Data Analyst with **2 years of experience** turning complex datasets into clear business insights and decisions. Strong in data cleaning, transformation, and building dashboards that improve reporting efficiency in Agile environments.
 
-<h2 align="center">🌐 Connect With Me</h2>
+- 📊 I work the full analytics workflow: **SQL · Python · Power BI · ETL · Cloud**
+- 🌱 Currently deepening **Microsoft Fabric** and ETL pipeline work
+- 👯 Open to collaborate on **analytics, dashboarding, and ML applications**
+- 💬 Ask me about **data modeling, dashboards, DAX, and SQL optimization**
+- 👨‍💻 See my work at **[sanketkothiya.netlify.app](https://sanketkothiya.netlify.app/)**
+- 📝 I write on **[Medium](https://medium.com/@sanketkothiya53)**
+- 📫 Reach me at **sanketkothiya50@gmail.com**
+- 📄 [View my resume](https://drive.google.com/file/d/1J_KkxAOHeXJd9x4pnewu0tobot4ay20r/view?usp=sharing)
+
+---
+
+## 💼 Experience
+
+**Jaguar Land Rover** — *Industry Collaboration, University of Windsor* · Windsor, ON · May 2025 – Aug 2025
+- Partnered with the Semiconductor Modeling & Performance Evaluation team to build an end-to-end **AI benchmarking platform** (Python + PostgreSQL) for faster GPU performance evaluation.
+- Designed a normalized PostgreSQL database of **8 interconnected tables** storing **2,100+ GPU records** and **53 engineered features**.
+- Built a **Streamlit dashboard** for real-time benchmark analysis, cost-optimization insights, and cross-vendor comparison.
+- Engineered an ETL pipeline integrating heterogeneous sources into a unified benchmarking schema.
+
+**LiveField** — *Data Analyst* · Surat, India · Sep 2022 – Mar 2024
+- Analyzed structured & unstructured data with **SQL** and **Python (Pandas, NumPy)** to surface key business drivers.
+- Built interactive **Power BI** dashboards improving visibility into business metrics and stakeholder reporting.
+- Implemented data validation & quality checks, reducing errors and maintaining data integrity across systems.
+- Built reusable data models and reporting templates to cut redundancy in recurring analysis.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[JLR AI Benchmarking System](https://jlr-ai-benchmark-prediction-dashboard.onrender.com)** 🔗 *live* | GPU benchmarking platform built with Jaguar Land Rover — 2,100+ records normalized into PostgreSQL, cost-optimization insights via a live Streamlit dashboard. | Python · PostgreSQL · Streamlit · ETL |
+| **HR Workforce Attrition Analysis** | Power BI dashboard analyzing attrition across **1,470 employees**; 8+ DAX measures surfacing a **16.12% attrition rate** by department, role, age & tenure. | Power BI · DAX · MS SQL · Excel |
+| **CrediWise — Automated Credit Approval** | Credit-decisioning analytics with TD Bank / University of Windsor. A/B testing in Agile lifted form completion by **28%**. | Python · SQL · Scikit-learn · Power BI |
+
+> 🔎 More projects at **[sanketkothiya.netlify.app](https://sanketkothiya.netlify.app/)**
+
+---
+
+## 🛠️ Tech Stack
+
+**Data Analytics & Visualization**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel_(VBA/Macros)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**Languages & Python Libraries**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+**Databases** *(+ ETL Pipelines · Data Modeling · Data Validation)*
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Applied Computing** — University of Windsor, Windsor, ON · May 2024 – Aug 2025
+- 🎓 **B.Tech, Computer Engineering** — A.D. Patel Institute of Technology, India · May 2018 – May 2022
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://dev.to/sanketkothiya2" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketkothiya2&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketkothiya2&theme=radical&hide_border=false" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkothiya2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanketkothiya2&theme=redical&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/sanket-kothiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://codesandbox.io/u/sanketkothiya2" target="_blank">
-    <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="CodeSandbox" />
-  </a>
-  <a href="https://leetcode.com/u/sanketkothiya2/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://medium.com/@sanketkothiya53" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="mailto:kothiyas@uwindsor.ca" target="_blank">
+  <a href="https://leetcode.com/u/sanketkothiya2/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://dev.to/sanketkothiya2" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="mailto:sanketkothiya50@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<h2 align="center">💻 Languages and Tools</h2>
+<br/>
 
-<div align="center">  
-  <a href="https://angular.io" target="_blank"><img style="margin: 10px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="50" /></a>  
-  <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="50" /></a>  
-  <a href="https://aws.amazon.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-  <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-  <a href="https://getbootstrap.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="50" /></a>  
-  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" height="50" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-  <a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="50" /></a>  
-  <a href="https://flutter.dev" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-  <a href="https://cloud.google.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-  <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /></a>  
-  <a href="https://graphql.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="50" /></a>  
-  <a href="https://heroku.com" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" height="50" /></a>  
-  <a href="https://www.w3.org/html/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.java.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" height="50" /></a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-  <a href="https://www.jenkins.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-  <a href="https://jestjs.io" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" height="50" /></a>  
-  <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
-  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" height="50" /></a>  
-  <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-  <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" height="50" /></a>  
-  <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="NextJS" height="50" /></a>  
-  <a href="https://www.nginx.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>  
-  <a href="https://nodejs.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" height="50" /></a>  
-  <a href="https://www.oracle.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" height="50" /></a>  
-  <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" height="50" /></a>  
-  <a href="https://www.postgresql.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-  <a href="https://pugjs.org" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="Pug" height="50" /></a>  
-  <a href="https://www.python.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="50" /></a>  
-  <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="50" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" /></a>  
-  <a href="https://redis.io" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-  <a href="https://redux.js.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="50" /></a>  
-  <a href="https://sass-lang.com" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" height="50" /></a>  
-  <a href="https://www.scala-lang.org" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="Scala" height="50" /></a>  
-  <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="50" /></a>  
-  <a href="https://seaborn.pydata.org/" target="_blank"><img style="margin: 10px" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" height="50" /></a>  
-  <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="50" /></a>  
-  <a href="https://www.sqlite.org/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" /></a>  
-  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" height="50" /></a>  
-  <a href="https://www.tensorflow.org" target="_blank"><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>  
-</div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketkothiya2&theme=radical&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketkothiya2&theme=radical&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketkothiya2&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</div>
-
-![Snake animation](https://github.com/sanketkothiya2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/sanketkothiya2/sanketkothiya2/output/github-contribution-grid-snake-dark.svg)
